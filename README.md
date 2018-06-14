@@ -1,1 +1,1 @@
-# ESP-QT-Multihreaded
+Simple-ESP8266-QT-MultithreadedTCP
